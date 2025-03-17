@@ -1,0 +1,55 @@
+.user-controls {
+    background-color: green;
+    height: 40px;
+}
+
+.branding-banner{
+    background-color: grey;
+    height: 250px;
+}
+
+.nav-bar {
+    background-color: pink;
+    height: 150px;
+}
+
+.info-page {
+    background-color: yellow;
+    height: 400px;
+}
+
+.info-pic {
+    background-color: red;
+    height: 400px;
+    width: 50%;
+    align-items: right;
+}
+
+.product-page {
+    background-color: green;
+    height: 400px;
+}
+
+.product-pic {
+    background-color: blue;
+    height: 400px;
+    width: 50%;
+}
+
+.highlight-divider {
+    background-color: purple;
+    height: 200px;
+
+}
+
+.recipe-page {
+    background-color: blueviolet;
+    height: 400px;
+}
+
+.recipe-pic {
+    height: 400px;
+    width: 50%;
+    background-color: red;
+    align-items: right;
+}
